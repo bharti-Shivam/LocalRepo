@@ -1,0 +1,11 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 9b93bac..280287c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,3 @@[m
+ <p>This is a new repo<br>[m
+[31m-thanku</p>[m
+\ No newline at end of file[m
+[32m+[m[32mthanku</p>[m
+[32m+[m[32m<p>This is secind line on feature2</p>[m
+\ No newline at end of file[m
